@@ -17,6 +17,7 @@ library("readr")
 
 
 # Set working Directory
+# add new comments
 setwd("~/Desktop/summer_2018_projects")
 
 # Import the SQL file data
